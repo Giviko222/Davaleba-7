@@ -1,0 +1,85 @@
+html , body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	padding: 5%;
+	padding-top: 0;
+}
+
+.satauri {
+	text-align: center;
+    font-size: 18px;
+    line-height: 24px;
+    
+    
+}
+
+
+
+
+.green-box {
+	height: 100%;
+	width: 100%;
+	background-color: #22B573;
+	border: 4px solid #006837;
+	padding: 3%;
+}
+
+.blue-box{
+	height: 100%;
+	width: 100%;
+	background-color: #29ABE2;
+	border: 4px solid #0071BC;
+	padding: 3%;
+	padding-top: 0;
+}
+
+.teksti-2 {
+	color: #fff;
+	font-size: 15px;
+	line-height:24px;
+}
+
+.yellow-box1 {
+    height: 32%;
+    width: 100%;
+	background-color:#FCEE21;
+	border: 4px solid #7AC943;
+	padding: 2.3%;
+
+}
+
+.yellow-box2 {
+	height: 58%;
+    width: 100%;
+	background-color:#FCEE21;
+	border: 4px solid #7AC943;
+	margin-top: 3%;
+	padding-top:10%;
+	padding-bottom: 10%;
+	
+	
+
+
+}
+
+.teksti-3{
+	color: #fff;
+	font-size: 35px;
+	text-align: center;
+}
+
+.small-box1{
+	height: 100%;
+	width: 17%;
+	background-color: #fff;
+	border: 1px solid #93278F;
+	float:right;
+	margin-right: 7%;
+
+
+}
+
+
