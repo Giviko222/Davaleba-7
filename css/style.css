@@ -12,6 +12,8 @@ body {
 	text-align: center;
     font-size: 18px;
     line-height: 24px;
+    font-family: 'B612 Mono', monospace;
+
     
     
 }
@@ -40,6 +42,8 @@ body {
 	color: #fff;
 	font-size: 15px;
 	line-height:24px;
+	font-family: 'B612 Mono', monospace;
+
 }
 
 .yellow-box1 {
@@ -47,18 +51,17 @@ body {
     width: 100%;
 	background-color:#FCEE21;
 	border: 4px solid #7AC943;
-	padding: 2.3%;
+	padding: 4.5%;
 
 }
 
 .yellow-box2 {
-	height: 58%;
+	height: 52%;
     width: 100%;
 	background-color:#FCEE21;
 	border: 4px solid #7AC943;
-	margin-top: 3%;
-	padding-top:10%;
-	padding-bottom: 10%;
+	margin-top: 5%;
+	
 	
 	
 
@@ -68,18 +71,48 @@ body {
 .teksti-3{
 	color: #fff;
 	font-size: 35px;
-	text-align: center;
+	padding:13% 34%;
+	font-family: 'B612 Mono', monospace;
+
+
 }
 
 .small-box1{
 	height: 100%;
-	width: 17%;
+	width: 20%;
 	background-color: #fff;
 	border: 1px solid #93278F;
 	float:right;
-	margin-right: 7%;
+	margin-right: 6.5%;
+	padding: 2%;
 
 
 }
 
+.small-box1-1{
+	height: 100%;
+	width: 20%;
+	background-color: #fff;
+	border: 1px solid #93278F;
+	float:right;
+	margin-right: 0%;
+	padding: 2%;
+
+
+}
+
+.inside-box {
+	background-color: #ED1E79;
+	width: 100%;
+	height: 100%;
+
+}
+
+.shida-teksti {
+	color: #fff;
+	font-size: 10px;
+	padding: 17% 21% 17% 21%;
+	font-family: 'B612 Mono', monospace;
+
+}
 
